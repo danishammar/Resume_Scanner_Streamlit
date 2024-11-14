@@ -1,0 +1,14 @@
+1. basic libraries
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+
+2. cli commands
+pip freeze > requirements.txt
+
+3.git commands
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/danishammar/Resume_Scanner_Streamlit.git
