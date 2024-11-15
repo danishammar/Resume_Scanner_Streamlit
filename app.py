@@ -80,7 +80,7 @@ if submit:
         st.subheader("Profile Summary:")
         st.write(response_dict['Profile Summary'])
 
-import streamlit as st
+
 
 # streamlit app
 st.title("Job Seekers")
